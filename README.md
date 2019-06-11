@@ -1,11 +1,9 @@
 # Clustering-Countries-basing-on-Socio-Economic-and-health-factors-
-A detailed exercise for beginners in ML. This will comprehend implementation of clustering along with PCA and Outlier treatment
-extensively
-
-THe entire step by step procedure to solve this problem was in python notebook with detailed documentation. One can also refer to
-pdf presentation attached here for quick results and procedures. 
+A detailed exercise for beginners in ML. This will comprehend implementation of clustering along with PCA and Outlier treatment extensively. The entire step by step procedure to solve this problem was in python notebook with detailed documentation. One can also refer to pdf presentation attached here for quick results and procedures. 
 
 We will write a detailed problem statement in here
+
+## Preface
 
 HELP International is an international humanitarian NGO that is committed to fighting poverty and providing the people of backward countries with basic amenities and relief during the time of disasters and natural calamities. It runs a lot of operational projects from time to time along with advocacy drives to raise awareness as well as for funding purposes.
  
